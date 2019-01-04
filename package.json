@@ -4,8 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "egg-bin dev --sticky",
+    "________client_stuff": "",
     "devc": "webpack --watch --dev",
+    "build": "webpack",
+    "________egg_stuff": "",
+    "dev": "egg-bin dev --sticky",
     "start": "egg-scripts start --sticky",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
